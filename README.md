@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD updated
 <<<<<<< HEAD
 “my second commit”
 =======
